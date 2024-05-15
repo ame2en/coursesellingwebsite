@@ -9,7 +9,7 @@ import { FaFacebook } from "react-icons/fa";
 
 const Header = () => {
   return (
-    <div className='flex bg-pink-100 p-4 justify-between'>
+    <div className='flex bg-pink-100 p-6 justify-between'>
       <div>Logo</div>
       <div className='flex'>
           <a href="" className='text-black font-bold underline hover:no-underline ease-in-out outline-none mr-4'>Home</a>
